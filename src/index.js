@@ -87,4 +87,5 @@ async function onClickLoadMore() {
     loadMoreBtn.classList.add('is-hidden');
     endCollection.classList.remove('is-hidden');
   }
+  
 }
