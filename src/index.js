@@ -1,5 +1,5 @@
-import fetchImeges from './js/fetch';
-import { cardTemplate } from './js/template-card'
+import fetchImeges from './JS/fetch';
+import { cardTemplate } from './JS/template-card'
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 import SimpleLightbox from 'simplelightbox';
 import "simplelightbox/dist/simple-lightbox.min.css";
